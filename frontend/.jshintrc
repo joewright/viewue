@@ -1,0 +1,9 @@
+{
+	"browser": true,
+	"strict": false,
+	"globals": {
+		"Vue": false,
+		"VueRouter": false,
+		"httpVueLoader": false
+	}
+}
